@@ -22,3 +22,4 @@ dist/
 *-tmp.md
 
 yarn.lock
+package-lock.json
