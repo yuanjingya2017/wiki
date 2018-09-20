@@ -2,7 +2,7 @@ module.exports = {
   sidebar: {
     title: '苏鹤',
     children: [
-      ['/docs/su/guide', '苏鹤']
+      ['/docs/su/markdown', 'markdown语法入门']
     ]
   }
 }

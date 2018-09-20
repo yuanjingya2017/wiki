@@ -6,8 +6,8 @@ actionText: 如何上手
 actionLink: /docs/guide/guide
 
 features:
-- title: 方便易用
-  details: WIKI简单易用，给大家提供一个良好的写作环境，激发写作欲望
+- title: 积累
+  details: 平时的一些积累，一些上手即用的东西/知识点等内容，范围较广
 - title: 提炼要点
   details: WIKI的内容要体现核心技术点，最好有必要的铺垫和引导，同时语言精练不啰嗦，要点部分让人一目了然
 - title: 养成习惯
