@@ -32,7 +32,7 @@ module.exports = {
       li.sidebar,
       su.sidebar
     ],
-    repo: 'https://gitlab.newbanker.cn/nbfe/wiki',
+    repo: 'https://github.com/flowSu/wiki',
     editLinks: false
   },
   style: {
