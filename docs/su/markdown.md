@@ -4,6 +4,10 @@
 该篇幅只介绍一些常用的基本语法，继续学习,请 [移步](https://www.appinn.com/markdown)。
 :::
 
+## 常用语法概览
+
+![常用语法](https://user-gold-cdn.xitu.io/2018/9/23/16605f3904259c79?imageslim)
+
 <!-- ## here
 
 ::: danger 提示
@@ -60,10 +64,10 @@ This is a dangerous warning, and the anchors will come here
 ` 底纹 `
 ```
 
-<!-- * ** 加粗 **
-* * 斜体 *
-* ~~ 删除线 ~~
-* ` 底纹 ` -->
+<!-- **加粗**
+*斜体*
+~~删除线~~
+` 底纹 ` -->
 
 ## 列表
 
@@ -102,7 +106,7 @@ This is a dangerous warning, and the anchors will come here
         2. 2.2.2
 ```
 
-<!-- #### 无序列表
+#### 无序列表
 
 * 1
 * 2
@@ -129,7 +133,7 @@ This is a dangerous warning, and the anchors will come here
     * 2.1
     * 2.2
         1. 2.2.1
-        2. 2.2.2 -->
+        2. 2.2.2
 
 ## 引用
 
@@ -212,9 +216,9 @@ console.log("Hello World");
 | Second Line 1 | Second Line 2  | Second Line 3 |
 ```
 
-<!--
 
-| First Header  | Second Header  | Third Header  |
+
+<!-- | First Header  | Second Header  | Third Header  |
 | ------------- | :--------------: | -------------: |
 | First Line 1  | First Line 2   | First Line 3  |
 | Second Line 1 | Second Line 2  | Second Line 3 | -->
