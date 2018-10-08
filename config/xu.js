@@ -2,7 +2,7 @@ module.exports = {
   sidebar: {
     title: '许超',
     children: [
-      ['/docs/xu/guide', '许超']
+      ['/docs/xu/wbs-doc', 'wbs组件文档说明（持续更新）']
     ]
   }
 }
