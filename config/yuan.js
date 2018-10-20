@@ -1,8 +1,8 @@
 module.exports = {
   sidebar: {
-    title: '袁静雅',
+    title: '袁靖雅',
     children: [
-      ['/docs/yuan/guide', '袁静雅']
+      ['/docs/yuan/guide', '袁靖雅']
     ]
   }
 }

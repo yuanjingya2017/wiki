@@ -18,7 +18,7 @@ module.exports = {
   themeConfig: {
     nav: [
       {text: '袁靖雅', link: '/docs/yuan/guide.md'},
-      {text: '许超', link: '/docs/xu/guide.md'},
+      {text: '许超', link: '/docs/xu/wbs-doc.md'},
       {text: '李书明', link: '/docs/li/vueChat.md'},
       {text: '苏鹤', link: '/docs/su/markdown.md'}
     ],

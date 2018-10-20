@@ -284,11 +284,13 @@ console.log("Hello World");
 
 展开原文用法比较少见，但是这种写法和普通的md写法有区别，其实很简单，就是普通的html标签写法，直接写在md文档里就可以
 
+```html
 <details>
   <summary>展开原文</summary>
 
   内容......
 </details>
+```
 
 ## 注释
 
